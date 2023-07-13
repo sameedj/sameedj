@@ -1,6 +1,6 @@
 👋 **Hi, I'm Sameed**
 
-I'm currently a Financial Analyst in the Finance and Operations team at Reggora. I like working on various different projects on topics that interest me with Excel, SQL, and Tableau. I am most passionate and interested in SQL and my first projects on Github were all completed with MySQL as well. I've self-learned SQL, Tableau, and Excel through Codecademy, Treehouse, and DataCamp. The next language I am working on learning is Python specifically for data analysis.
+I'm currently a Financial Analyst in the Finance and Operations team at Reggora. I like working on various different projects on topics that interest me with Excel, SQL, and Tableau. I am most passionate and interested in SQL and my first projects on Github were all completed with MySQL as well. I've self-learned SQL, Tableau, and Excel through Codecademy, Treehouse, and DataCamp. The next language I am working on learning is Python for data analysis.
 
 Originally I am from San Jose, CA where I was born and raised. I hold a BS in Business Administration from the Haas School of Business at UC Berkeley.
 
