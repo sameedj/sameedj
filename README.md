@@ -6,7 +6,7 @@ Originally I am from San Jose, CA where I was born and raised. I hold a BS in Bu
 
 Outside of work, I like playing Roller Hockey, practicing Archery, going Horseback Riding, and working out.
 
-I'm also into self-dev books and like learning about spoken languages and history as well. Currently I'm learning German and have picked up learning Dutch as well.
+I'm also into self-development books and like learning about spoken languages and history. Currently I'm learning German.
 
 <!--
 **sameedj/sameedj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
